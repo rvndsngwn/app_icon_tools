@@ -1,15 +1,18 @@
 name: app_icon_tools
 description: Simple GUI for launcher/desktop app icons generation and preview.
+author: Roman Cinis
+repository: https://github.com/tsinis/app_icon_tools
+issue_tracker: https://github.com/tsinis/app_icon_tools/issues
 
-version: 1.0.2
+version: 1.0.3
 
 environment:
   sdk: ">=2.10.0 <=2.12.0"
   flutter: ">=1.24.0"
 
 dependencies:
-  community_material_icon: ^5.4.55
-  cupertino_icons: ^1.0.1+1
+  community_material_icon: ^5.8.55
+  cupertino_icons: ^1.0.2
   dotted_border: ^1.0.7
   file_picker_cross: ^4.2.6
   flutter:
